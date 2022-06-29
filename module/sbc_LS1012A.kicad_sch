@@ -284,25 +284,25 @@
       (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/00000000-0000-0000-0000-0000608e44a6/00000000-0000-0000-0000-0000608e4555"
-      (reference "U1") (unit 1) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
+      (reference "U100") (unit 1) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
     )
     (path "/00000000-0000-0000-0000-000060ab835d/00000000-0000-0000-0000-000060abbdca"
-      (reference "U1") (unit 2) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
+      (reference "U100") (unit 2) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
     )
     (path "/00000000-0000-0000-0000-000060abc755/00000000-0000-0000-0000-00006085afd9"
-      (reference "U1") (unit 3) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
+      (reference "U100") (unit 3) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
     )
     (path "/00000000-0000-0000-0000-0000608e44a6/00000000-0000-0000-0000-0000608ff0d9"
-      (reference "U1") (unit 4) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
+      (reference "U100") (unit 4) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
     )
     (path "/00000000-0000-0000-0000-0000608e44a6/00000000-0000-0000-0000-000060904ae3"
-      (reference "U1") (unit 5) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
-    )
-    (path "/00000000-0000-0000-0000-000060abc755/00000000-0000-0000-0000-0000608715f8"
-      (reference "U2") (unit 1) (value "VR5100") (footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias")
+      (reference "U100") (unit 5) (value "LS1012A") (footprint "nxp:NXP_LS1012ASE7EKA")
     )
     (path "/00000000-0000-0000-0000-000060ab835d/00000000-0000-0000-0000-000060877a67"
-      (reference "U300") (unit 1) (value "MT41K512M16HA") (footprint "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
+      (reference "U200") (unit 1) (value "MT41K512M16HA") (footprint "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
+    )
+    (path "/00000000-0000-0000-0000-000060abc755/00000000-0000-0000-0000-0000608715f8"
+      (reference "U800") (unit 1) (value "VR5100") (footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias")
     )
   )
 )
